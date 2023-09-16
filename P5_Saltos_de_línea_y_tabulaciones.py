@@ -1,5 +1,5 @@
-########################hacer saltos de línea y tabulaciones literales en Python######################
-#\n representa una pulsación de la tecla enter 
+########################hacer saltos de lÃ­nea y tabulaciones literales en Python######################
+#\n representa una pulsaciÃ³n de la tecla enter 
 #\t representa un salto de linea 
 
 
